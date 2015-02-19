@@ -11,6 +11,7 @@ $ npm install --save make-url
 ```js
 var makeUrl = require('make-url');
 
+// only params
 makeUrl('/example/:foo/:bar', { foo: 'one', bar: 'two' })
 //=> /example/one/two
 
