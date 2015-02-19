@@ -1,0 +1,33 @@
+{
+  "name": "make-url",
+  "version": "0.0.1",
+  "description": "Url maker",
+  "license": "MIT",
+  "repository": "ButuzGOL/make-url",
+  "author": {
+    "name": "ButuzGOL",
+    "email": "ButuzGOL@gmail.com",
+    "url": "http://pamparam.net"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "url",
+    "pattern",
+    "query",
+    "template",
+    "make",
+    "compose",
+    "build"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
