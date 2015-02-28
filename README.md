@@ -1,4 +1,5 @@
 # make-url [![Build Status](https://travis-ci.org/ButuzGOL/make-url.svg?branch=master)](https://travis-ci.org/ButuzGOL/make-url)
+Make url based on properties see examples
 
 ## Install
 
