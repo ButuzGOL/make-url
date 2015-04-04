@@ -32,3 +32,7 @@ makeUrl('/example', { time: 'stop' })
 makeUrl('/example/:foo/:bar', 'one', 'two', { time: 'stop' })
 //=> /example/one/two?time=stop
 ```
+
+## License
+
+MIT © [ButuzGOL](https://butuzgol.github.io)
